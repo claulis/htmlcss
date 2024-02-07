@@ -93,9 +93,9 @@
 
 ### Atividade
 
-1. Crie um arquivo `texto.2. html`
-3. Copie o sequinte código html
-Abra em um navegador
+1. Crie um arquivo `texto.html`
+2. Copie o seguinte código html
+3. Abra em um navegador
 
 
 ```html
